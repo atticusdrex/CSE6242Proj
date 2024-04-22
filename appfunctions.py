@@ -4,7 +4,7 @@ import pandas as pd
 from pprint import pprint 
 import pandas as pd  
 from tqdm.notebook import tqdm
-from moneylinefunctions import *
+from AnalyticsFiles.moneylinefunctions import *
 tqdm.pandas()
 import pickle as p 
 
