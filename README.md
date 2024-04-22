@@ -28,10 +28,10 @@ e.g. use "python3 final_app.py"
 
 2.) If successful, the following message should be displayed 
 
-``Dash is running on http://127.0.0.1:8050/
+`Dash is running on http://127.0.0.1:8050/
 
  * Serving Flask app 'final_app'
- * Debug mode: on``
+ * Debug mode: on`
 
 3.) Navigate to this URL and the app is loaded. 
 
