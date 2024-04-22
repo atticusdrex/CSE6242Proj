@@ -1,4 +1,4 @@
-# NBADataScience
+# Group 42: Generating Betting Insight for Individual NBA Player Performance 
 
 README: 
 
